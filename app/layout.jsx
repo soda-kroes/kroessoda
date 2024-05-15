@@ -11,7 +11,7 @@ import { ThemeProvider } from "@/components/ThemeProvider";
 
 export const metadata = {
   title: "KROES-SODA",
-  description: "Kroes-Soda-Portfolio",
+  description: "KROES-SODA PORTFOLIO",
 };
 const outfit = Outfit({subsets: ['latin']});
 
