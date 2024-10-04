@@ -11,7 +11,7 @@ const Footer = () =>{
                     hover:text-white dark:hover:text-primary text-[20px] transition-all'  />
                         {/* copyright */}
                         <div className="text-muted-foreground">
-                            Copyright1 &copy;[Kroes Soda] | Modify On 📅 08/05/2024
+                            Copyright &copy;[Kroes Soda .2k24] | Modify On 📅 08/05/2024
                         </div>
                   
                 </div>
