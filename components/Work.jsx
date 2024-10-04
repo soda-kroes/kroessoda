@@ -96,9 +96,7 @@ const Work = () => {
         >
           <h2 className="section-title mb-4 dark:text-white">Lastest Projects</h2>
           <p className="subtitle mb-b text-base"> </p>
-          It is all my project that I have completed.
-          <div className="mt-10 text-base mb-4">😜😍 Please note that I do not have the ability to deploy all project to  browse the internet, But you can get my code from the GitHub</div>
-         
+            Explore a selection of my completed projects showcasing my expertise and skills.
           <Link href="/projects">
             <Button>All Project</Button>
           </Link>
